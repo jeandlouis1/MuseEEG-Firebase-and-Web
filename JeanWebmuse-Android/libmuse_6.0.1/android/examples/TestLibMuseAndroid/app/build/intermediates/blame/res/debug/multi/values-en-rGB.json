@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rGB\\values-en-rGB.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 196,
+                    "endOffset": 297
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\.android\\build-cache\\9539b8fd35518905f8d827a1d5643af562dc4d3a\\output\\res\\values-en-rGB\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 289,
+                        "endColumn": 196,
+                        "endOffset": 485
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\JeanWebmuse-Android\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rGB\\values-en-rGB.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 196,
+                    "endOffset": 297
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\.android\\build-cache\\9539b8fd35518905f8d827a1d5643af562dc4d3a\\output\\res\\values-en-rGB\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 289,
+                        "endColumn": 196,
+                        "endOffset": 485
+                    }
+                }
+            }
+        ]
+    }
+]

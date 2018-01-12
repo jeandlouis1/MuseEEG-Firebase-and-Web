@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Fri Jan 12 00:06:02 EST 2018
+2.base=C\:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\jars\\2\\1f\\main.jar\\build-data.properties
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+7.set=ANDROID_RESOURCE
+count=9
+0.file=C\:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\jars\\2\\1f\\main.jar\\jsr305_annotations\\Jsr305_annotations.gwt.xml
+5.base=C\:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\armeabi-v7a\\libmuse_android.so
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\jars\\2\\1f\\main.jar
+1.file=C\:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+1.set=DEX
+7.base=C\:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+6.set=JAVA_RESOURCE
+0.base=C\:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\jars\\2\\1f\\main.jar
+8.base=C\:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
+3.file=C\:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+4.file=C\:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+8.set=NATIVE_RESOURCE
+0.set=JAVA_RESOURCE

@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+	<title>Muse webvew</title>
+
+  <style>
+* {
+    box-sizing: border-box;
+}
+
+.columns {
+    float: left;
+    width: 33.3%;
+    padding: 8px;
+}
+
+.data {
+    list-style-type: none;
+    border: 1px solid #eee;
+    margin: 0;
+    padding: 0;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+}
+
+.data:hover {
+    box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2)
+}
+
+.data .header {
+    background-color: #ADD8E6;
+    color: white;
+    font-size: 25px;
+}
+
+.data li {
+    border-bottom: 1px solid #eee;
+    padding: 20px;
+    text-align: center;
+}
+
+.data .grey {
+    background-color: #eee;
+    font-size: 20px;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .columns {
+        width: 100%;
+    }
+}
+</style>
+	 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+
+	 
+</head>
+	<body>
+
+	<span>
+	<img src="Group.png" alt="logo" style="float:right;width:60px;height:60px;">
+	<h1 id="DeviceID"></h1>
+
+	</span>
+	<h2 id=connected></h2>
+
+
+	<div class="columns">
+	  <ul class="data">
+		<li class="header">ALPHE_rel</li>
+		<li name="ALPHA" class="grey"></li>
+		<li name="ALPHA"></li>
+		<li name="ALPHA"></li>
+		<li name="ALPHA"innerHTMLomains</li>
+	  </ul>
+	</div>
+
+	<div class="columns">
+	  <ul class="data">
+		<li class="header">BETA_rel</li>
+		<li name="BETA" class="grey"></li>
+		<li name="BETA"></li>
+		<li name="BETA"></li>
+		<li name="BETA"innerHTMLomains</li>
+	  </ul>
+	</div>
+
+	<div class="columns">
+	  <ul class="data">
+		<li class="header">THETA_rel</li>
+		<li name="THETA" class="grey"></li>
+		<li name="THETA"></li>
+		<li name="THETA"></li>
+		<li name="THETA"innerHTMLomains</li>
+	  </ul>
+	</div>
+
+
+	<div class="columns">
+	  <ul class="data">
+		<li class="header">GAMMA_rel</li>
+		<li name="GAMMA" class="grey"></li>
+		<li name="GAMMA"></li>
+		<li name="GAMMA"></li>
+		<li name="GAMMA"innerHTMLomains</li>
+	  </ul>
+	</div>
+
+	<div class="columns">
+	  <ul class="data">
+		<li class="header">DELTA_rel</li>
+		<li name="DELTA" class="grey"></li>
+		<li name="DELTA"></li>
+		<li name="DELTA"></li>
+		<li name="DELTA"innerHTMLomains</li>
+	  </ul>
+	</div>
+
+	<div class="columns">
+	  <ul class="data">
+		<li class="header">EEG</li>
+		<li name="EEG" class="grey"></li>
+		<li name="EEG"></li>
+		<li name="EEG"></li>
+		<li name="EEG"innerHTMLomains</li>
+	  </ul>
+	</div>
+
+
+<script src="https://www.gstatic.com/firebasejs/4.5.0/firebase.js"></script>
+<script>
+/*
+// Initialize Firebase
+  // TODO: Replace with your project's customized code snippet
+  var config = {
+    apiKey: "<API_KEY>",
+    authDomain: "<PROJECT_ID>.firebaseapp.com",
+    databaseURL: "https://<DATABASE_NAME>.firebaseio.com",
+    storageBucket: "<BUCKET>.appspot.com",
+    messagingSenderId: "<SENDER_ID>",
+  };
+  firebase.initializeApp(config);
+  */
+
+  
+
+
+
+
+  var alphaRef = firebase.database().ref("Device/Alpha_relative");
+  var betaRef = firebase.database().ref("Device/Beta_relative");
+  var thetaRef = firebase.database().ref("Device/Theta_relative");
+  var deltaRef = firebase.database().ref("Device/Delta_relative");
+  var gammaRef = firebase.database().ref("Device/Gamma_relative");
+
+  var connectedRef = firebase.database().ref("Device/Connected");
+  var DeviceIdRef = firebase.database().ref("Device/DeviceID");
+  var eegDataRef = firebase.database().ref("Device/EEG_data");
+  var pausedRef = firebase.database().ref("Device/Paused");
+
+  var con = document.getElementById("connected");
+  connectedRef.on('value',snap => con.innerHTML = snap.val());
+
+  var dId = document.getElementById("DeviceID");
+  DeviceIdRef.on('value',snap => dId.innerHTML = snap.val());
+
+
+
+  var alphas = document.getElementsByName("ALPHA");//makes an array of tags with 'ALPHA'
+  alphaRef.child("elem1").on('value',snap => alphas[0].innerHTML = snap.val());
+  alphaRef.child("elem2").on('value',snap => alphas[1].innerHTML = snap.val());
+  alphaRef.child("elem3").on('value',snap => alphas[2].innerHTML = snap.val());
+  alphaRef.child("elem4").on('value',snap => alphas[3].innerHTML = snap.val());
+
+  var betas = document.getElementsByName("BETA");
+  betaRef.child("elem1").on('value',snap => betas[0].innerHTML = snap.val());
+  betaRef.child("elem2").on('value',snap => betas[1].innerHTML = snap.val());
+  betaRef.child("elem3").on('value',snap => betas[2].innerHTML = snap.val());
+  betaRef.child("elem4").on('value',snap => betas[3].innerHTML = snap.val());
+
+  var thetas = document.getElementsByName("THETA");
+  thetaRef.child("elem1").on('value',snap => thetas[0].innerHTML = snap.val());
+  thetaRef.child("elem2").on('value',snap => thetas[1].innerHTML = snap.val());
+  thetaRef.child("elem3").on('value',snap => thetas[2].innerHTML = snap.val());
+  thetaRef.child("elem4").on('value',snap => thetas[3].innerHTML = snap.val());
+
+  var deltas = document.getElementsByName("DELTA");
+  deltaRef.child("elem1").on('value',snap => deltas[0].innerHTML = snap.val());
+  deltaRef.child("elem2").on('value',snap => deltas[1].innerHTML = snap.val());
+  deltaRef.child("elem3").on('value',snap => deltas[2].innerHTML = snap.val());
+  deltaRef.child("elem4").on('value',snap => deltas[3].innerHTML = snap.val());
+
+  var gammas = document.getElementsByName("GAMMA");
+  gammaRef.child("elem1").on('value',snap => gammas[0].innerHTML = snap.val());
+  gammaRef.child("elem2").on('value',snap => gammas[1].innerHTML = snap.val());
+  gammaRef.child("elem3").on('value',snap => gammas[2].innerHTML = snap.val());
+  gammaRef.child("elem4").on('value',snap => gammas[3].innerHTML = snap.val());
+
+  var eegs = document.getElementsByName("EEG");
+  eegDataRef.child("elem1").on('value',snap => eegs[0].innerHTML = snap.val());
+  eegDataRef.child("elem2").on('value',snap => eegs[1].innerHTML = snap.val());
+  eegDataRef.child("elem3").on('value',snap => eegs[2].innerHTML = snap.val());
+  eegDataRef.child("elem4").on('value',snap => eegs[3].innerHTML = snap.val());
+
+
+  
+</script>
+
+<!--
+<div id="signals">
+
+	   <div id= ALPH>
+		    
+     		   <label >Aelem1:</label>
+      	   <input type="range" name="ALPHA" id="A1" value=0 min="0" max="10" data-popup-enabled="true" />
+           <label >Aelem2:</label>
+           <input type="range" name="ALPHA" id="A1" value=0 min="0" max="1" data-popup-enabled="true" />
+           <label >Aelem3:</label>
+           <input type="range" name="ALPHA" id="A1" value=0 min="0" max="1" data-popup-enabled="true" />
+           <label >Aelem4:</label>
+           <input type="range" name="ALPHA" id="A1" value=0 min="0" max="1" data-popup-enabled="true" />
+     </div>
+      
+      <br/> 
+
+      
+      <div id= BET>
+        
+           <label >Belem1:</label>
+           <input type="range" name="BETA" id="A1" value=0 min="0" max="1" data-popup-enabled="true" />
+           <label >Belem2:</label>
+           <input type="range" name="BETA" id="A1" value=0 min="0" max="1" data-popup-enabled="true" />
+           <label >Belem3:</label>
+           <input type="range" name="BETA" id="A1" value=0 min="0" max="1" data-popup-enabled="true" />
+           <label >Belem4:</label>
+           <input type="range" name="BETA" id="A1" value=0 min="0" max="1" data-popup-enabled="true" />
+     </div>
+      
+      <br/> 
+      <div id= THET>
+        
+           <label >Telem1:</label>
+           <input type="range" name="THETA" id="A1" value=0 min="0" max="1" data-popup-enabled="true" />
+           <label >Telem2:</label>
+           <input type="range" name="THETA" id="A1" value=0 min="0" max="1" data-popup-enabled="true" />
+           <label >Telem3:</label>
+           <input type="range" name="THETA" id="A1" value=0 min="0" max="1" data-popup-enabled="true" />
+           <label >Telem4:</label>
+           <input type="range" name="THETA" id="A1" value=0 min="0" max="1" data-popup-enabled="true" />
+     </div>
+      
+      <br/> 
+
+      <div id= DELT>
+        
+           <label >Delem1:</label>
+           <input type="range" name="DELTA" id="A1" value=0 min="0" max="1" data-popup-enabled="true" />
+           <label >Delem2:</label>
+           <input type="range" name="DELTA" id="A1" value=0 min="0" max="1" data-popup-enabled="true" />
+           <label >Delem3:</label>
+           <input type="range" name="DELTA" id="A1" value=0 min="0" max="1" data-popup-enabled="true" />
+           <label >Delem4:</label>
+           <input type="range" name="DELTA" id="A1" value=0 min="0" max="1" data-popup-enabled="true" />
+     </div>
+      
+      <br/> 
+
+
+
+</div>
+
+
+
+-->
+
+
+
+
+	</body>
+</html>

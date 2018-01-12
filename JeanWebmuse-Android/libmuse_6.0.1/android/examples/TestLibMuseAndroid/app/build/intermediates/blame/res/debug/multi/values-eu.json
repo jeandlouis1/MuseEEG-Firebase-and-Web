@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-eu\\values-eu.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 200,
+                    "endOffset": 301
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\.android\\build-cache\\9539b8fd35518905f8d827a1d5643af562dc4d3a\\output\\res\\values-eu\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 200,
+                        "endOffset": 485
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\JeanWebmuse-Android\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-eu\\values-eu.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 200,
+                    "endOffset": 301
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\.android\\build-cache\\9539b8fd35518905f8d827a1d5643af562dc4d3a\\output\\res\\values-eu\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 200,
+                        "endOffset": 485
+                    }
+                }
+            }
+        ]
+    }
+]

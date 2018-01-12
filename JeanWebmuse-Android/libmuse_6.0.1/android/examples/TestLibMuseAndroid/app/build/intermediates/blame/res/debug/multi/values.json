@@ -1,0 +1,1048 @@
+[
+    {
+        "outputFile": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 57,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 55,
+                    "endOffset": 214
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 219,
+                    "endColumn": 67,
+                    "endOffset": 282
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\.android\\build-cache\\9539b8fd35518905f8d827a1d5643af562dc4d3a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 287,
+                    "endColumn": 53,
+                    "endOffset": 336
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 341,
+                    "endColumn": 52,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 394,
+                    "endColumn": 52,
+                    "endOffset": 442
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 52,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 447,
+                    "endColumn": 51,
+                    "endOffset": 494
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 499,
+                    "endColumn": 166,
+                    "endOffset": 661
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\.android\\build-cache\\9539b8fd35518905f8d827a1d5643af562dc4d3a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 666,
+                    "endColumn": 43,
+                    "endOffset": 705
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 710,
+                    "endColumn": 143,
+                    "endOffset": 849
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 854,
+                    "endColumn": 49,
+                    "endOffset": 899
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 904,
+                    "endColumn": 37,
+                    "endOffset": 937
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 942,
+                    "endColumn": 41,
+                    "endOffset": 979
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 984,
+                    "endColumn": 109,
+                    "endOffset": 1089
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1094,
+                    "endColumn": 81,
+                    "endOffset": 1171
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1176,
+                    "endColumn": 103,
+                    "endOffset": 1275
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1280,
+                    "endColumn": 102,
+                    "endOffset": 1378
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1383,
+                    "endColumn": 119,
+                    "endOffset": 1498
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1503,
+                    "endColumn": 98,
+                    "endOffset": 1597
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1602,
+                    "endColumn": 52,
+                    "endOffset": 1650
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1655,
+                    "endColumn": 40,
+                    "endOffset": 1691
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1696,
+                    "endColumn": 56,
+                    "endOffset": 1748
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1753,
+                    "endColumn": 53,
+                    "endOffset": 1802
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1807,
+                    "endColumn": 46,
+                    "endOffset": 1849
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1854,
+                    "endColumn": 241,
+                    "endOffset": 2091
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2096,
+                    "endColumn": 78,
+                    "endOffset": 2170
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2175,
+                    "endColumn": 69,
+                    "endOffset": 2240
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2245,
+                    "endColumn": 43,
+                    "endOffset": 2284
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2289,
+                    "endColumn": 53,
+                    "endOffset": 2338
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2343,
+                    "endColumn": 45,
+                    "endOffset": 2384
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2389,
+                    "endColumn": 44,
+                    "endOffset": 2429
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2434,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 2512
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2517,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 2584
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\JeanWebmuse-Android\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 57,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\JeanWebmuse-Android\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 55,
+                    "endOffset": 214
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\JeanWebmuse-Android\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 219,
+                    "endColumn": 67,
+                    "endOffset": 282
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\.android\\build-cache\\9539b8fd35518905f8d827a1d5643af562dc4d3a\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 276,
+                        "endColumn": 63,
+                        "endOffset": 339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 287,
+                    "endColumn": 53,
+                    "endOffset": 336
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\JeanWebmuse-Android\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 490,
+                        "endColumn": 53,
+                        "endOffset": 539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 341,
+                    "endColumn": 52,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\JeanWebmuse-Android\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 52,
+                        "endOffset": 210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 394,
+                    "endColumn": 52,
+                    "endOffset": 442
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\JeanWebmuse-Android\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 52,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 447,
+                    "endColumn": 51,
+                    "endOffset": 494
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\JeanWebmuse-Android\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 635,
+                        "endColumn": 51,
+                        "endOffset": 682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 499,
+                    "endColumn": 166,
+                    "endOffset": 661
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\.android\\build-cache\\9539b8fd35518905f8d827a1d5643af562dc4d3a\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 439,
+                        "endColumn": 166,
+                        "endOffset": 605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 666,
+                    "endColumn": 43,
+                    "endOffset": 705
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\JeanWebmuse-Android\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 215,
+                        "endColumn": 43,
+                        "endOffset": 254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 710,
+                    "endColumn": 143,
+                    "endOffset": 849
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\JeanWebmuse-Android\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 143,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 854,
+                    "endColumn": 49,
+                    "endOffset": 899
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\JeanWebmuse-Android\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 313,
+                        "endColumn": 49,
+                        "endOffset": 358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 904,
+                    "endColumn": 37,
+                    "endOffset": 937
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\JeanWebmuse-Android\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 791,
+                        "endColumn": 37,
+                        "endOffset": 824
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 942,
+                    "endColumn": 41,
+                    "endOffset": 979
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\JeanWebmuse-Android\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 448,
+                        "endColumn": 41,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 984,
+                    "endColumn": 109,
+                    "endOffset": 1089
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\JeanWebmuse-Android\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 199,
+                        "endColumn": 109,
+                        "endOffset": 304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1094,
+                    "endColumn": 81,
+                    "endOffset": 1171
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\JeanWebmuse-Android\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 309,
+                        "endColumn": 81,
+                        "endOffset": 386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1176,
+                    "endColumn": 103,
+                    "endOffset": 1275
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\JeanWebmuse-Android\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 391,
+                        "endColumn": 103,
+                        "endOffset": 490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1280,
+                    "endColumn": 102,
+                    "endOffset": 1378
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\JeanWebmuse-Android\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 495,
+                        "endColumn": 102,
+                        "endOffset": 593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1383,
+                    "endColumn": 119,
+                    "endOffset": 1498
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\JeanWebmuse-Android\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 598,
+                        "endColumn": 119,
+                        "endOffset": 713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1503,
+                    "endColumn": 98,
+                    "endOffset": 1597
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\JeanWebmuse-Android\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 718,
+                        "endColumn": 98,
+                        "endOffset": 812
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1602,
+                    "endColumn": 52,
+                    "endOffset": 1650
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\JeanWebmuse-Android\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 52,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1655,
+                    "endColumn": 40,
+                    "endOffset": 1691
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\JeanWebmuse-Android\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 407,
+                        "endColumn": 40,
+                        "endOffset": 443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1696,
+                    "endColumn": 56,
+                    "endOffset": 1748
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\JeanWebmuse-Android\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 687,
+                        "endColumn": 56,
+                        "endOffset": 739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1753,
+                    "endColumn": 53,
+                    "endOffset": 1802
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\JeanWebmuse-Android\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 829,
+                        "endColumn": 53,
+                        "endOffset": 878
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1807,
+                    "endColumn": 46,
+                    "endOffset": 1849
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\JeanWebmuse-Android\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 744,
+                        "endColumn": 46,
+                        "endOffset": 786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1854,
+                    "endColumn": 241,
+                    "endOffset": 2091
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\JeanWebmuse-Android\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 963,
+                        "endColumn": 241,
+                        "endOffset": 1200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2096,
+                    "endColumn": 78,
+                    "endOffset": 2170
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\JeanWebmuse-Android\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 884,
+                        "endColumn": 78,
+                        "endOffset": 958
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2175,
+                    "endColumn": 69,
+                    "endOffset": 2240
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\JeanWebmuse-Android\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1205,
+                        "endColumn": 69,
+                        "endOffset": 1270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2245,
+                    "endColumn": 43,
+                    "endOffset": 2284
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\JeanWebmuse-Android\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 363,
+                        "endColumn": 43,
+                        "endOffset": 402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2289,
+                    "endColumn": 53,
+                    "endOffset": 2338
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\JeanWebmuse-Android\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 259,
+                        "endColumn": 53,
+                        "endOffset": 308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2343,
+                    "endColumn": 45,
+                    "endOffset": 2384
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\JeanWebmuse-Android\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 589,
+                        "endColumn": 45,
+                        "endOffset": 630
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2389,
+                    "endColumn": 44,
+                    "endOffset": 2429
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\JeanWebmuse-Android\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 544,
+                        "endColumn": 44,
+                        "endOffset": 584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2434,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 2720
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\JeanWebmuse-Android\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2725,
+                    "endLine": 42,
+                    "endColumn": 12,
+                    "endOffset": 2880
+                },
+                "from": {
+                    "file": "C:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\JeanWebmuse-Android\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

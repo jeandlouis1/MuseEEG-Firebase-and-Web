@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Thu Jan 11 23:38:02 EST 2018
+1.base=C\:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+1.file=C\:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+4.set=ANDROID_RESOURCE
+2.base=C\:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+count=5
+1.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+0.file=C\:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+4.base=C\:\\Users\\Jean\\Documents\\spring18\\JeanMuse\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_

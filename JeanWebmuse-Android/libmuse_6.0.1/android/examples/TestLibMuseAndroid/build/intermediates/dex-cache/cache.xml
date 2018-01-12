@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jean\Documents\fall17\muse\libmuse_6.0.1\android\examples\TestLibMuseAndroid\app\libs\libmuse_android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ff5869a43a5bebf2f95b7643cc818206bc3ccb22">
+        <dex dex="C:\Users\Jean\Documents\fall17\muse\libmuse_6.0.1\android\examples\TestLibMuseAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\2\libmuse_android_cb810fbec6d18f34a424490fdac40f68923c507c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jean\Documents\spring18\JeanMuse\libmuse_6.0.1\android\examples\TestLibMuseAndroid\app\libs\libmuse_android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ff5869a43a5bebf2f95b7643cc818206bc3ccb22">
+        <dex dex="C:\Users\Jean\Documents\spring18\JeanMuse\libmuse_6.0.1\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\libmuse_android_8b5897753400ba685c62cfd6e58cb45e4016876f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jean\Documents\fall17\muse\libmuse_6.0.1\android\examples\TestLibMuseAndroid\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Jean\Documents\fall17\muse\libmuse_6.0.1\android\examples\TestLibMuseAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_36cdee67e083a47fd4100a3211a88411fccbf079\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jean\Documents\fall17\muse\libmuse_6.0.1\android\examples\TestLibMuseAndroid\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="80ebc2b80b797cdd6e7748e28b3cf0229f502a72">
+        <dex dex="C:\Users\Jean\Documents\fall17\muse\libmuse_6.0.1\android\examples\TestLibMuseAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0d6751cf8396cf7cee41853878974447dee707ca\classes.dex" />
+    </item>
+
+</items>

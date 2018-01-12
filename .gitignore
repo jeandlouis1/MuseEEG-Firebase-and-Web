@@ -1,0 +1,11 @@
+JeanMuse/libmuse_6.0.1/android/examples/TestLibMuseAndroid/app/google-services.json
+# node
+node_modules
+.gradle
+.idea
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+*.iml

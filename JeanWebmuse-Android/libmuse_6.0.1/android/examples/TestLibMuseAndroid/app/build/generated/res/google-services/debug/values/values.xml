@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">279861026886-r4lj3bbk56k16f2cgjiadcik8q1abbl6.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://musetest1-7af08.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">279861026886</string>
+    <string name="google_api_key" translatable="false">AIzaSyAnCLWrxNlU0cPQd0sg3BZHP2id5KrF_l4</string>
+    <string name="google_app_id" translatable="false">1:279861026886:android:2cac7cfa4841a64e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAnCLWrxNlU0cPQd0sg3BZHP2id5KrF_l4</string>
+    <string name="google_storage_bucket" translatable="false">musetest1-7af08.appspot.com</string>
+</resources>
