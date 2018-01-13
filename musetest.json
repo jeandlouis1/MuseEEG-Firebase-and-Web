@@ -1,0 +1,43 @@
+{
+  "Device" : {
+    "Alpha_relative" : {
+      "elem1" : "  0.05",
+      "elem2" : "  0.22",
+      "elem3" : "  0.09",
+      "elem4" : "  0.11"
+    },
+    "Beta_relative" : {
+      "elem1" : "  0.14",
+      "elem2" : "  0.11",
+      "elem3" : "  0.08",
+      "elem4" : "  0.19"
+    },
+    "Connected" : "CONNECTING -> CONNECTED",
+    "Delta_relative" : {
+      "elem1" : "  0.23",
+      "elem2" : "  0.13",
+      "elem3" : "  0.13",
+      "elem4" : "  0.24"
+    },
+    "DeviceID" : "Muse-B1D9 - 00:06:66:70:B1:D9",
+    "EEG_data" : {
+      "elem1" : 0,
+      "elem2" : 0,
+      "elem3" : 0,
+      "elem4" : 0
+    },
+    "Gamma_relative" : {
+      "elem1" : "  0.23",
+      "elem2" : "  0.13",
+      "elem3" : "  0.13",
+      "elem4" : "  0.24"
+    },
+    "Paused" : "true",
+    "Theta_relative" : {
+      "elem1" : "  0.23",
+      "elem2" : "  0.13",
+      "elem3" : "  0.13",
+      "elem4" : "  0.24"
+    }
+  }
+}
