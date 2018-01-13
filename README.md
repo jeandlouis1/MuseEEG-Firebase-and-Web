@@ -9,7 +9,7 @@ It contains Firebase hooks in the android app and analogus hooks on the webpage.
 1. [create A Firbase account](https://firebase.google.com/?gclid=EAIaIQobChMIqozErZLT2AIVwYuzCh2pzwM4EAAYASAAEgK0s_D_BwE)
 
 
-### Connect Android Troject To Firebase
+### Connect Android Project To Firebase
 For the code to run you need to add a Firebase backend for the code to connect to.
 
 2.	Open the android code and add firbase backend to the project and name the Firebase Project what you want.
